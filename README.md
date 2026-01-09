@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorithms-with-Java
+# data-structures-and-algorithms-with-java
 PDSA practice codes with explanations and examples
